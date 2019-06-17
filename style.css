@@ -1,0 +1,529 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.menu{
+	position: absolute;
+	margin-left: 50%;
+	display: inline-block;
+
+	width: 45%;
+	margin-top: 30px;
+}
+.menu_item{
+	display: inline-block;
+	text-decoration:none;
+	height: 20px;
+	width: 0px;
+	margin-right:  70px;
+	position: all;
+
+}
+.menu_item:active{
+	color:#10C9C3;
+	
+
+}
+
+
+.image_here{
+	  width: 100%;
+	  background: #e9e9e9;
+	  display: block;
+	  height: 670px;
+	  background-size: cover;
+}
+.contact_us {
+  font-size: 12px;
+  font-family: "Montserrat";
+  background-color: #10C9C3;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  display:block;
+  height: 59px;
+  width: 180px;
+}
+.We_Design_and_Develop {
+  font-size: 38px;
+  font-family: "Montserrat";
+  color: rgb(29, 29, 29);
+  line-height: 1.263;
+  text-align: left;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+.text {
+  font-size: 18px;
+  font-family: "Myriad Pro";
+  color: rgb(120, 120, 120);  
+  text-align: left;
+  z-index: 230;
+}
+.logo {
+  display: inline-block;
+  background-image: url(logo.png);
+  margin-left: 98px;
+  margin-top: 38px;
+  width: 43px;
+  height: 35px;
+  position: absolute;
+}
+.baner{
+	padding-top: 20%;
+	padding-left: 50%;
+
+
+}
+.About_Us {
+  font-size: 30px;
+  font-family: "Montserrat";
+  color: rgb(25, 25, 25);
+  line-height: 2;
+  text-align: center;
+  padding: 50px;
+}
+.text_about {
+  font-size: 16px;
+font-family: 'Nunito Sans', sans-serif;
+  color: rgb(120, 120, 120);
+  line-height: 1.5;
+  text-align: center;
+ 
+  left: 372px;
+  top: 851px;
+  z-index: 218;
+}
+.signature {
+  background-image: url("signature.png");
+  margin-left: 40%;
+   width: 223px;
+  height: 57px;
+}
+.skills {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1366px;
+  height: 5797px;
+  z-index: 215;
+}
+
+.Professional_Skills {
+  font-size: 30px;
+  font-family: "Montserrat";
+  color: rgb(23, 23, 23);
+  text-align: left;
+}
+.UI_UX_Design____75_ {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+}
+.rectangle75 {
+  background-color: rgb(16, 201, 195);
+  position: absolute;
+  font-family: "Montserrat";
+  text-transform: uppercase;
+  width: 33%;
+  height: 3px;
+  z-index: 210;
+}
+.rectangle100 {
+  background-color: rgb(216, 216, 216);
+  position: absolute;
+  width: 50%;
+  height: 3px;
+  z-index: 209;
+}
+.web_development____90_ {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 2.5;
+  margin-top: 40px;
+}
+.rectangle90 {
+  background-color: rgb(16, 201, 195);
+  position: absolute;
+  width: 42%;
+  height: 3px;
+  z-index: 210;
+}
+
+.marketing____65_ {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 2.5;
+  z-index: 201;
+  margin-top: 40px;
+}
+.rectangle65 {
+  background-color: rgb(16, 201, 195);
+   position: absolute;
+  width: 28%;
+  height: 3px;
+  z-index: 210;
+}
+.bg {
+  background-color: grey;
+  width: 45%;
+  display: inline;
+  height: 570px;
+
+}
+.Skills{
+	width: 45%;
+	height: 570px;
+display: inline;
+
+}
+.d{
+	display: inline-block;
+	margin-right: 20px;
+	margin-left: 50px;
+}
+.pe_7s_portfolio {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	margin-top: 70px;
+	background-color:#10c9c3 ;
+	display: inline-block;
+	width: 100%;
+}
+
+.conteiner{
+	margin-left: 50px;
+}
+fieldset{
+	border: 0px;
+	padding-left: 40%;
+}
+.NeedProject{
+	font-size: 30px;
+  font-family: "Montserrat";
+  color: rgb(29, 29, 29);
+  line-height: 2.8;
+  text-align: center;
+}
+
+
+
+.text_need{
+	 font-size: 16px;
+font-family: 'Nunito Sans', sans-serif;
+  color: rgb(120, 120, 120);
+  line-height: 1.5;
+  text-align: center;
+}
+ 
+.bgNeed{
+	background-color: #f5f5f5;
+	height: 100%;
+	padding-bottom: 1px;
+}
+input{
+	border: 0px;
+	height: 30px;
+}
+
+.SendMessage{
+	margin-left: 50%;
+	background-color:#10c9c3; 
+	color: white;
+	padding: 10px;
+}
+.num{
+	display: inline-block;
+	font-size: 18px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    margin-left: 5px;
+}
+.p{
+	display: inline-block;
+	font-size: 15px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    
+}
+
+
+.bg1 {
+  background-color: rgb(16, 201, 195);
+  position: absolute;
+  left: 0px;
+  width: 100%;
+}
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding:0px;	 
+}
+
+.spr li{
+	background-image: url(sprait.png);
+	 display: inline-block;
+	 width: 150px;
+	 height: 170px;
+	 background-repeat: no-repeat;
+	 margin-right: 50px;
+
+}
+
+.spr .montain{
+	background-position: -240px;
+}
+
+.spr .montain:hover{
+	background-position: -240px;
+	border-width: 1px;
+	border: solid;
+	transition: all 0.2s ease-out;
+}
+.collection{
+	background-position: -510px;
+}
+.spr .collection:hover{
+	background-position: -510px;
+	border-width: 1px;
+	border: solid;
+		transition: all 0.2s ease-out;
+}
+.mountainbike{
+	background-position: -760px;
+}
+.spr .mountainbike:hover{
+	background-position: -760px;
+	border-width: 1px;
+	border: solid;
+		transition: all 0.2s ease-out;
+}
+.spr li:hover{
+	border-width: 1px;
+	border: solid;
+		transition: all 0.2s ease-out;
+}
+
+.footer{
+    justify-content: space-around;
+    padding: 30px 0 50px 10px;
+    background:black;
+    display: flex;
+    color: white;
+}
+.conteiner-footer h4{
+    font-family: "Segoe WP Light",sans-serif;
+    font-size: 22px;
+    padding-bottom: 15px;
+}
+
+.footer-menu-element, .info{
+    padding-bottom: 5px;
+    list-style-type: none;
+    color: #abacac;
+    font-size: 13px;
+    
+}
+
+.info{
+    line-height: 1.65;
+}
+
+
+
+.footer-menu-element a{
+    text-decoration: none;
+    color: #abacac;
+	
+}
+
+.bg2 {
+  background-color: rgb(16, 201, 195);
+  
+  width: 100%;
+  height: 377px;
+ 
+}
+
+.Outstanding_job {
+  font-size: 25px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  padding-top: 10px;
+  padding-left: 150px;
+ padding-right:  150px;
+}
+._1 {
+  border-radius: 50%;
+  background-color: rgb(176, 232, 230);
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  margin-top: 350px;
+  margin-left: 45%;
+
+}
+._2_active {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin-top: 348px;
+  margin-left: 47%;
+}
+._3 {
+  border-radius: 50%;
+  background-color: rgb(176, 232, 230);
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  margin-top: 350px;
+  margin-left: 49.5%;
+}
+.your_img_here {
+  background-color: rgb(131, 131, 131);
+  width: 335px;
+  height: 300px;
+  display: inline-flex;
+}
+
+.load_more_work {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(142, 142, 142);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  display: inline-block;
+   background-color: rgb(245, 245, 245);
+   width: 100%;
+  height: 100px;
+  
+}
+.text_load{
+	text-align: center;
+	margin-top: 50px;
+}
+.Our_Work_Process {
+  font-size: 30px;
+  font-family: "Montserrat";
+  color: rgb(25, 25, 25);
+  line-height: 2;
+  text-align: center;
+  }
+
+  .Was_years {
+  font-size: 16px;
+font-family: 'Nunito Sans', sans-serif;
+  color: rgb(120, 120, 120);
+  line-height: 1.5;
+  text-align: center;
+
+}
+svg{
+	margin-left: 80px;
+	margin-top: 25px;
+}
+.ellipse {
+  border-radius: 50%;
+  background-color: rgb(16, 201, 195);
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 240px;
+  width: 85px;
+  height: 85px;
+  z-index: 126;
+
+}
+.video_here {
+  background-color: rgb(233, 233, 233);
+  width: 100%;
+  height: 571px;
+  z-index: 122;
+}
+
+.pe_7s{
+	background-color: rgb(233, 233, 233);
+	margin-top: 50px;
+}
+.p2{
+	display: block;
+	text-align: center;
+	  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(25, 25, 25);
+  text-transform: uppercase;
+  line-height: 2.5;
+ 
+}
+.d2{
+	display: inline-block;
+	margin-left: 100px;
+}
+.text4 {
+  font-size: 16px;
+  font-family: 'Nunito Sans', sans-serif;
+  color: rgb(120, 120, 120);
+  line-height: 1.5;
+  text-align: center;
+
+}
+
+@media only screen and (max-width: 530px){
+	.footer-menu-element, .info{
+    padding-bottom: 5px;
+    list-style-type: none;
+    color: #abacac;
+    font-size: 9px;
+}
+.signature {
+
+    background-image: url("signature.png");
+    margin-left: 40%;
+    width: 200px;
+    height: 50px;
+
+}
+.Outstanding_job {
+  font-size: 15px;
+  
+}
+.info{
+	font-size: 10px;
+}
+.conteiner-footer h4{
+	font-size: 16px;
+}
+.footer{
+	height: 100%;
+	display: inline-block;
+	width: 90%;
+	padding-left: 34px;
+}
+.num{
+	
+	font-size: 12px;
+}
+.text4 {
+  font-size: 14px;
+}
+
+.logo {
+  margin-left: 50px;
+  margin-top: 38px;
+
+  
+}
+}
